@@ -1,0 +1,1041 @@
+2013/12/10 20:44:57 [error] [exception.CException] exception 'CException' with message 'CDbCriteria and its behaviors do not have a method or closure named "select".' in F:\xampp\htdocs\YiiMain\framework\base\CComponent.php:266
+Stack trace:
+#0 F:\xampp\htdocs\appyiimusicstore\protected\controllers\SiteController.php(31): CComponent->__call('select', Array)
+#1 F:\xampp\htdocs\appyiimusicstore\protected\controllers\SiteController.php(31): CDbCriteria->select('*')
+#2 F:\xampp\htdocs\YiiMain\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#3 F:\xampp\htdocs\YiiMain\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#4 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CController->run('')
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#8 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#9 F:\xampp\htdocs\appyiimusicstore\index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/appyiimusicstore/
+---
+2013/12/10 20:48:13 [error] [exception.CException] exception 'CException' with message 'CDbCriteria and its behaviors do not have a method or closure named "select".' in F:\xampp\htdocs\YiiMain\framework\base\CComponent.php:266
+Stack trace:
+#0 F:\xampp\htdocs\appyiimusicstore\protected\controllers\SiteController.php(31): CComponent->__call('select', Array)
+#1 F:\xampp\htdocs\appyiimusicstore\protected\controllers\SiteController.php(31): CDbCriteria->select('*')
+#2 F:\xampp\htdocs\YiiMain\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#3 F:\xampp\htdocs\YiiMain\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#4 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CController->run('')
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#8 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#9 F:\xampp\htdocs\appyiimusicstore\index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/appyiimusicstore/
+---
+2013/12/10 21:00:53 [error] [exception.CException] exception 'CException' with message 'CDbCriteria and its behaviors do not have a method or closure named "select".' in F:\xampp\htdocs\YiiMain\framework\base\CComponent.php:266
+Stack trace:
+#0 F:\xampp\htdocs\appyiimusicstore\protected\controllers\SiteController.php(31): CComponent->__call('select', Array)
+#1 F:\xampp\htdocs\appyiimusicstore\protected\controllers\SiteController.php(31): CDbCriteria->select('*')
+#2 F:\xampp\htdocs\YiiMain\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#3 F:\xampp\htdocs\YiiMain\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#4 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CController->run('')
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#8 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#9 F:\xampp\htdocs\appyiimusicstore\index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/appyiimusicstore/
+---
+2013/12/10 21:00:54 [error] [exception.CException] exception 'CException' with message 'CDbCriteria and its behaviors do not have a method or closure named "select".' in F:\xampp\htdocs\YiiMain\framework\base\CComponent.php:266
+Stack trace:
+#0 F:\xampp\htdocs\appyiimusicstore\protected\controllers\SiteController.php(31): CComponent->__call('select', Array)
+#1 F:\xampp\htdocs\appyiimusicstore\protected\controllers\SiteController.php(31): CDbCriteria->select('*')
+#2 F:\xampp\htdocs\YiiMain\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#3 F:\xampp\htdocs\YiiMain\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#4 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CController->run('')
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#8 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#9 F:\xampp\htdocs\appyiimusicstore\index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/appyiimusicstore/
+---
+2013/12/10 21:00:55 [error] [exception.CException] exception 'CException' with message 'CDbCriteria and its behaviors do not have a method or closure named "select".' in F:\xampp\htdocs\YiiMain\framework\base\CComponent.php:266
+Stack trace:
+#0 F:\xampp\htdocs\appyiimusicstore\protected\controllers\SiteController.php(31): CComponent->__call('select', Array)
+#1 F:\xampp\htdocs\appyiimusicstore\protected\controllers\SiteController.php(31): CDbCriteria->select('*')
+#2 F:\xampp\htdocs\YiiMain\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#3 F:\xampp\htdocs\YiiMain\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#4 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CController->run('')
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#8 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#9 F:\xampp\htdocs\appyiimusicstore\index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/appyiimusicstore/
+---
+2013/12/10 21:05:11 [error] [exception.CException] exception 'CException' with message 'CDbCriteria and its behaviors do not have a method or closure named "select".' in F:\xampp\htdocs\YiiMain\framework\base\CComponent.php:266
+Stack trace:
+#0 F:\xampp\htdocs\appyiimusicstore\protected\controllers\SiteController.php(31): CComponent->__call('select', Array)
+#1 F:\xampp\htdocs\appyiimusicstore\protected\controllers\SiteController.php(31): CDbCriteria->select('*')
+#2 F:\xampp\htdocs\YiiMain\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#3 F:\xampp\htdocs\YiiMain\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#4 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CController->run('')
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#8 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#9 F:\xampp\htdocs\appyiimusicstore\index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/appyiimusicstore/
+---
+2013/12/10 21:05:12 [error] [exception.CException] exception 'CException' with message 'CDbCriteria and its behaviors do not have a method or closure named "select".' in F:\xampp\htdocs\YiiMain\framework\base\CComponent.php:266
+Stack trace:
+#0 F:\xampp\htdocs\appyiimusicstore\protected\controllers\SiteController.php(31): CComponent->__call('select', Array)
+#1 F:\xampp\htdocs\appyiimusicstore\protected\controllers\SiteController.php(31): CDbCriteria->select('*')
+#2 F:\xampp\htdocs\YiiMain\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#3 F:\xampp\htdocs\YiiMain\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#4 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CController->run('')
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#8 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#9 F:\xampp\htdocs\appyiimusicstore\index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/appyiimusicstore/
+---
+2013/12/10 21:05:12 [error] [exception.CException] exception 'CException' with message 'CDbCriteria and its behaviors do not have a method or closure named "select".' in F:\xampp\htdocs\YiiMain\framework\base\CComponent.php:266
+Stack trace:
+#0 F:\xampp\htdocs\appyiimusicstore\protected\controllers\SiteController.php(31): CComponent->__call('select', Array)
+#1 F:\xampp\htdocs\appyiimusicstore\protected\controllers\SiteController.php(31): CDbCriteria->select('*')
+#2 F:\xampp\htdocs\YiiMain\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#3 F:\xampp\htdocs\YiiMain\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#4 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CController->run('')
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#8 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#9 F:\xampp\htdocs\appyiimusicstore\index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/appyiimusicstore/
+---
+2013/12/10 21:05:16 [error] [exception.CException] exception 'CException' with message 'CDbCriteria and its behaviors do not have a method or closure named "select".' in F:\xampp\htdocs\YiiMain\framework\base\CComponent.php:266
+Stack trace:
+#0 F:\xampp\htdocs\appyiimusicstore\protected\controllers\SiteController.php(31): CComponent->__call('select', Array)
+#1 F:\xampp\htdocs\appyiimusicstore\protected\controllers\SiteController.php(31): CDbCriteria->select('*')
+#2 F:\xampp\htdocs\YiiMain\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#3 F:\xampp\htdocs\YiiMain\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#4 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CController->run('')
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#8 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#9 F:\xampp\htdocs\appyiimusicstore\index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/appyiimusicstore/
+---
+2013/12/10 21:05:16 [error] [exception.CException] exception 'CException' with message 'CDbCriteria and its behaviors do not have a method or closure named "select".' in F:\xampp\htdocs\YiiMain\framework\base\CComponent.php:266
+Stack trace:
+#0 F:\xampp\htdocs\appyiimusicstore\protected\controllers\SiteController.php(31): CComponent->__call('select', Array)
+#1 F:\xampp\htdocs\appyiimusicstore\protected\controllers\SiteController.php(31): CDbCriteria->select('*')
+#2 F:\xampp\htdocs\YiiMain\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#3 F:\xampp\htdocs\YiiMain\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#4 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CController->run('')
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#8 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#9 F:\xampp\htdocs\appyiimusicstore\index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/appyiimusicstore/
+---
+2013/12/10 21:05:17 [error] [exception.CException] exception 'CException' with message 'CDbCriteria and its behaviors do not have a method or closure named "select".' in F:\xampp\htdocs\YiiMain\framework\base\CComponent.php:266
+Stack trace:
+#0 F:\xampp\htdocs\appyiimusicstore\protected\controllers\SiteController.php(31): CComponent->__call('select', Array)
+#1 F:\xampp\htdocs\appyiimusicstore\protected\controllers\SiteController.php(31): CDbCriteria->select('*')
+#2 F:\xampp\htdocs\YiiMain\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#3 F:\xampp\htdocs\YiiMain\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#4 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CController->run('')
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#8 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#9 F:\xampp\htdocs\appyiimusicstore\index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/appyiimusicstore/
+---
+2013/12/10 22:13:07 [error] [exception.CException] exception 'CException' with message 'CDbCriteria and its behaviors do not have a method or closure named "oreder".' in F:\xampp\htdocs\YiiMain\framework\base\CComponent.php:266
+Stack trace:
+#0 F:\xampp\htdocs\appyiimusicstore\protected\controllers\SiteController.php(32): CComponent->__call('oreder', Array)
+#1 F:\xampp\htdocs\appyiimusicstore\protected\controllers\SiteController.php(32): CDbCriteria->oreder('Name ASC')
+#2 F:\xampp\htdocs\YiiMain\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#3 F:\xampp\htdocs\YiiMain\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#4 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CController->run('')
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#8 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#9 F:\xampp\htdocs\appyiimusicstore\index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/appyiimusicstore/
+---
+2013/12/10 22:13:21 [error] [exception.CException] exception 'CException' with message 'CDbCriteria and its behaviors do not have a method or closure named "order".' in F:\xampp\htdocs\YiiMain\framework\base\CComponent.php:266
+Stack trace:
+#0 F:\xampp\htdocs\appyiimusicstore\protected\controllers\SiteController.php(32): CComponent->__call('order', Array)
+#1 F:\xampp\htdocs\appyiimusicstore\protected\controllers\SiteController.php(32): CDbCriteria->order('Name ASC')
+#2 F:\xampp\htdocs\YiiMain\framework\web\actions\CInlineAction.php(49): SiteController->actionIndex()
+#3 F:\xampp\htdocs\YiiMain\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#4 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CController->run('')
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#8 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#9 F:\xampp\htdocs\appyiimusicstore\index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/appyiimusicstore/
+---
+2013/12/10 23:20:33 [error] [php] Use of undefined constant content - assumed 'content' (F:\xampp\htdocs\appyiimusicstore\protected\views\store\index.php:10)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(869): StoreController->renderFile()
+#1 F:\xampp\htdocs\YiiMain\framework\web\CController.php(782): StoreController->renderPartial()
+#2 F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php(9): StoreController->render()
+#3 F:\xampp\htdocs\YiiMain\framework\web\actions\CInlineAction.php(49): StoreController->actionIndex()
+#4 F:\xampp\htdocs\YiiMain\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): StoreController->runAction()
+#6 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): StoreController->runActionWithFilters()
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): StoreController->run()
+#8 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/store
+in F:\xampp\htdocs\appyiimusicstore\protected\views\store\index.php (10)
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php (9)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2013/12/11 18:58:16 [error] [php] Undefined index: gid (F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php:14)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): StoreController->runAction()
+#1 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): StoreController->runActionWithFilters()
+#2 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): StoreController->run()
+#3 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/store/browse/6
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php (14)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2013/12/11 19:06:30 [error] [php] Undefined index: gid (F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php:14)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): StoreController->runAction()
+#1 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): StoreController->runActionWithFilters()
+#2 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): StoreController->run()
+#3 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/store/browse/6
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php (14)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2013/12/11 19:06:32 [error] [php] Undefined index: gid (F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php:14)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): StoreController->runAction()
+#1 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): StoreController->runActionWithFilters()
+#2 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): StoreController->run()
+#3 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/store/browse/6
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php (14)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2013/12/11 19:06:32 [error] [php] Undefined index: gid (F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php:14)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): StoreController->runAction()
+#1 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): StoreController->runActionWithFilters()
+#2 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): StoreController->run()
+#3 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/store/browse/6
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php (14)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2013/12/11 19:06:32 [error] [php] Undefined index: gid (F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php:14)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): StoreController->runAction()
+#1 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): StoreController->runActionWithFilters()
+#2 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): StoreController->run()
+#3 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/store/browse/6
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php (14)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2013/12/11 19:06:33 [error] [php] Undefined index: gid (F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php:14)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): StoreController->runAction()
+#1 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): StoreController->runActionWithFilters()
+#2 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): StoreController->run()
+#3 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/store/browse/6
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php (14)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2013/12/11 19:06:33 [error] [php] Undefined index: gid (F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php:14)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): StoreController->runAction()
+#1 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): StoreController->runActionWithFilters()
+#2 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): StoreController->run()
+#3 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/store/browse/6
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php (14)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2013/12/11 19:06:33 [error] [php] Undefined index: gid (F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php:14)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): StoreController->runAction()
+#1 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): StoreController->runActionWithFilters()
+#2 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): StoreController->run()
+#3 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/store/browse/6
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php (14)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2013/12/11 19:06:38 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' t1.Name, t1.ArtistId FROM `tbl_artist` `t1` LEFT JOIN tbl_album ON tbl_album.Ar' at line 1. The SQL statement executed was: SELECT DISTINCT, t1.Name, t1.ArtistId FROM `tbl_artist` `t1` LEFT JOIN tbl_album ON tbl_album.ArtistId = t1.ArtistId WHERE tbl_album.GenreId = 6 ORDER BY t1.ArtistId ASC.
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php (34)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2013/12/11 19:06:38 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' t1.Name, t1.ArtistId FROM `tbl_artist` `t1` LEFT JOIN tbl_album ON tbl_album.Ar' at line 1. The SQL statement executed was: SELECT DISTINCT, t1.Name, t1.ArtistId FROM `tbl_artist` `t1` LEFT JOIN tbl_album ON tbl_album.ArtistId = t1.ArtistId WHERE tbl_album.GenreId = 6 ORDER BY t1.ArtistId ASC' in F:\xampp\htdocs\YiiMain\framework\db\CDbCommand.php:543
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\db\CDbCommand.php(396): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 F:\xampp\htdocs\YiiMain\framework\db\ar\CActiveRecord.php(1351): CDbCommand->queryAll()
+#2 F:\xampp\htdocs\YiiMain\framework\db\ar\CActiveRecord.php(1470): CActiveRecord->query(Object(CDbCriteria), true)
+#3 F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php(34): CActiveRecord->findAll(Object(CDbCriteria))
+#4 F:\xampp\htdocs\YiiMain\framework\web\actions\CInlineAction.php(49): StoreController->actionBrowse()
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#6 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#7 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CController->run('browse')
+#9 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController('store/browse')
+#10 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#11 F:\xampp\htdocs\appyiimusicstore\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/appyiimusicstore/index.php/store/browse?gid=6
+HTTP_REFERER=http://localhost:1234/appyiimusicstore/index.php
+---
+2013/12/11 19:09:14 [error] [php] Undefined variable: aName (F:\xampp\htdocs\appyiimusicstore\protected\views\store\index.php:36)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(869): StoreController->renderFile()
+#1 F:\xampp\htdocs\YiiMain\framework\web\CController.php(782): StoreController->renderPartial()
+#2 F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php(35): StoreController->render()
+#3 F:\xampp\htdocs\YiiMain\framework\web\actions\CInlineAction.php(49): StoreController->actionBrowse()
+#4 F:\xampp\htdocs\YiiMain\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): StoreController->runAction()
+#6 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): StoreController->runActionWithFilters()
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): StoreController->run()
+#8 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/store/browse?gid=6
+in F:\xampp\htdocs\appyiimusicstore\protected\views\store\index.php (36)
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php (35)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2013/12/11 19:12:01 [error] [php] Array to string conversion (F:\xampp\htdocs\appyiimusicstore\protected\views\store\index.php:38)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(869): StoreController->renderFile()
+#1 F:\xampp\htdocs\YiiMain\framework\web\CController.php(782): StoreController->renderPartial()
+#2 F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php(35): StoreController->render()
+#3 F:\xampp\htdocs\YiiMain\framework\web\actions\CInlineAction.php(49): StoreController->actionBrowse()
+#4 F:\xampp\htdocs\YiiMain\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): StoreController->runAction()
+#6 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): StoreController->runActionWithFilters()
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): StoreController->run()
+#8 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/store/browse?gid=6
+in F:\xampp\htdocs\appyiimusicstore\protected\views\store\index.php (38)
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php (35)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2013/12/12 19:17:46 [error] [php] Undefined index: gid (F:\xampp\htdocs\appyiimusicstore\protected\views\store\index.php:10)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(869): StoreController->renderFile()
+#1 F:\xampp\htdocs\YiiMain\framework\web\CController.php(782): StoreController->renderPartial()
+#2 F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php(46): StoreController->render()
+#3 F:\xampp\htdocs\YiiMain\framework\web\actions\CInlineAction.php(49): StoreController->actionDetails()
+#4 F:\xampp\htdocs\YiiMain\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): StoreController->runAction()
+#6 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): StoreController->runActionWithFilters()
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): StoreController->run()
+#8 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/store/details?album=610
+in F:\xampp\htdocs\appyiimusicstore\protected\views\store\index.php (10)
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php (46)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2013/12/12 19:22:43 [error] [php] Undefined index: gid (F:\xampp\htdocs\appyiimusicstore\protected\views\store\index.php:10)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(869): StoreController->renderFile()
+#1 F:\xampp\htdocs\YiiMain\framework\web\CController.php(782): StoreController->renderPartial()
+#2 F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php(46): StoreController->render()
+#3 F:\xampp\htdocs\YiiMain\framework\web\actions\CInlineAction.php(49): StoreController->actionDetails()
+#4 F:\xampp\htdocs\YiiMain\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): StoreController->runAction()
+#6 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): StoreController->runActionWithFilters()
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): StoreController->run()
+#8 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/store/details?album=609
+in F:\xampp\htdocs\appyiimusicstore\protected\views\store\index.php (10)
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php (46)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2013/12/12 19:23:00 [error] [php] Undefined index: gid (F:\xampp\htdocs\appyiimusicstore\protected\views\store\index.php:10)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(869): StoreController->renderFile()
+#1 F:\xampp\htdocs\YiiMain\framework\web\CController.php(782): StoreController->renderPartial()
+#2 F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php(51): StoreController->render()
+#3 F:\xampp\htdocs\YiiMain\framework\web\actions\CInlineAction.php(49): StoreController->actionDetails()
+#4 F:\xampp\htdocs\YiiMain\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): StoreController->runAction()
+#6 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): StoreController->runActionWithFilters()
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): StoreController->run()
+#8 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/store/details?album=609
+in F:\xampp\htdocs\appyiimusicstore\protected\views\store\index.php (10)
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php (51)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2013/12/12 19:39:46 [error] [php] Array to string conversion (F:\xampp\htdocs\appyiimusicstore\protected\views\store\index.php:52)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(869): StoreController->renderFile()
+#1 F:\xampp\htdocs\YiiMain\framework\web\CController.php(782): StoreController->renderPartial()
+#2 F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php(51): StoreController->render()
+#3 F:\xampp\htdocs\YiiMain\framework\web\actions\CInlineAction.php(49): StoreController->actionDetails()
+#4 F:\xampp\htdocs\YiiMain\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): StoreController->runAction()
+#6 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): StoreController->runActionWithFilters()
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): StoreController->run()
+#8 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/store/details?album=609
+in F:\xampp\htdocs\appyiimusicstore\protected\views\store\index.php (52)
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php (51)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2013/12/12 19:40:25 [error] [php] Undefined variable: Albums (F:\xampp\htdocs\appyiimusicstore\protected\views\store\index.php:47)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(869): StoreController->renderFile()
+#1 F:\xampp\htdocs\YiiMain\framework\web\CController.php(782): StoreController->renderPartial()
+#2 F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php(54): StoreController->render()
+#3 F:\xampp\htdocs\YiiMain\framework\web\actions\CInlineAction.php(49): StoreController->actionDetails()
+#4 F:\xampp\htdocs\YiiMain\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): StoreController->runAction()
+#6 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): StoreController->runActionWithFilters()
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): StoreController->run()
+#8 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/store/details?album=609
+in F:\xampp\htdocs\appyiimusicstore\protected\views\store\index.php (47)
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php (54)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2013/12/12 19:44:20 [error] [php] Undefined variable: Albums (F:\xampp\htdocs\appyiimusicstore\protected\views\store\index.php:47)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(869): StoreController->renderFile()
+#1 F:\xampp\htdocs\YiiMain\framework\web\CController.php(782): StoreController->renderPartial()
+#2 F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php(54): StoreController->render()
+#3 F:\xampp\htdocs\YiiMain\framework\web\actions\CInlineAction.php(49): StoreController->actionDetails()
+#4 F:\xampp\htdocs\YiiMain\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): StoreController->runAction()
+#6 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): StoreController->runActionWithFilters()
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): StoreController->run()
+#8 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/store/details?album=609
+in F:\xampp\htdocs\appyiimusicstore\protected\views\store\index.php (47)
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php (54)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2013/12/12 19:44:37 [error] [php] Undefined variable: Albums (F:\xampp\htdocs\appyiimusicstore\protected\views\store\index.php:47)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(869): StoreController->renderFile()
+#1 F:\xampp\htdocs\YiiMain\framework\web\CController.php(782): StoreController->renderPartial()
+#2 F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php(54): StoreController->render()
+#3 F:\xampp\htdocs\YiiMain\framework\web\actions\CInlineAction.php(49): StoreController->actionDetails()
+#4 F:\xampp\htdocs\YiiMain\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): StoreController->runAction()
+#6 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): StoreController->runActionWithFilters()
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): StoreController->run()
+#8 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/store/details?album=504
+in F:\xampp\htdocs\appyiimusicstore\protected\views\store\index.php (47)
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php (54)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2013/12/12 19:46:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cart".' in F:\xampp\htdocs\YiiMain\framework\web\CController.php:483
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(270): CController->missingAction('cart')
+#1 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CController->run('cart')
+#2 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController('store/cart')
+#3 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\xampp\htdocs\appyiimusicstore\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/appyiimusicstore/index.php/store/cart?album=504
+HTTP_REFERER=http://localhost:1234/appyiimusicstore/index.php/store/details?album=504
+---
+2013/12/13 20:30:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cart".' in F:\xampp\htdocs\YiiMain\framework\web\CController.php:483
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(270): CController->missingAction('cart')
+#1 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CController->run('cart')
+#2 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController('store/cart')
+#3 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\xampp\htdocs\appyiimusicstore\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/appyiimusicstore/index.php/store/cart?album=618
+HTTP_REFERER=http://localhost:1234/appyiimusicstore/index.php/store/details?album=618
+---
+2013/12/13 20:32:19 [error] [php] Undefined index: album (F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php:45)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): StoreController->runAction()
+#1 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): StoreController->runActionWithFilters()
+#2 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): StoreController->run()
+#3 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/store/details?albid=618&aid=618
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php (45)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2013/12/13 20:33:07 [error] [php] Undefined index: albid (F:\xampp\htdocs\appyiimusicstore\protected\views\store\index.php:49)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(869): StoreController->renderFile()
+#1 F:\xampp\htdocs\YiiMain\framework\web\CController.php(782): StoreController->renderPartial()
+#2 F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php(51): StoreController->render()
+#3 F:\xampp\htdocs\YiiMain\framework\web\actions\CInlineAction.php(49): StoreController->actionDetails()
+#4 F:\xampp\htdocs\YiiMain\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): StoreController->runAction()
+#6 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): StoreController->runActionWithFilters()
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): StoreController->run()
+#8 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/store/details?album=618
+in F:\xampp\htdocs\appyiimusicstore\protected\views\store\index.php (49)
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php (51)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2014/01/04 01:28:33 [error] [php] Undefined index: artist (F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php:61)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): StoreController->runAction()
+#1 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): StoreController->runActionWithFilters()
+#2 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): StoreController->run()
+#3 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/store/ArtistDetails?artistid=8
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php (61)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2014/01/04 01:28:41 [error] [php] Undefined index: artist (F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php:61)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): StoreController->runAction()
+#1 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): StoreController->runActionWithFilters()
+#2 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): StoreController->run()
+#3 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/store/ArtistDetails?artistid=8
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php (61)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2014/01/04 01:47:39 [error] [php] Undefined index: artist (F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php:61)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): StoreController->runAction()
+#1 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): StoreController->runActionWithFilters()
+#2 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): StoreController->run()
+#3 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/store/ArtistDetails?artistid=8
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php (61)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2014/01/04 01:47:53 [error] [php] Undefined index: artist (F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php:64)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): StoreController->runAction()
+#1 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): StoreController->runActionWithFilters()
+#2 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): StoreController->run()
+#3 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/store/ArtistDetails?artistid=8
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php (64)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2014/01/04 01:48:11 [error] [php] Undefined variable: content (F:\xampp\htdocs\appyiimusicstore\protected\views\store\index.php:97)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(869): StoreController->renderFile()
+#1 F:\xampp\htdocs\YiiMain\framework\web\CController.php(782): StoreController->renderPartial()
+#2 F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php(66): StoreController->render()
+#3 F:\xampp\htdocs\YiiMain\framework\web\actions\CInlineAction.php(49): StoreController->actionArtistDetails()
+#4 F:\xampp\htdocs\YiiMain\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): StoreController->runAction()
+#6 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): StoreController->runActionWithFilters()
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): StoreController->run()
+#8 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/store/ArtistDetails?artistid=8
+in F:\xampp\htdocs\appyiimusicstore\protected\views\store\index.php (97)
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php (66)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2014/01/04 01:55:38 [error] [php] Undefined variable: content (F:\xampp\htdocs\appyiimusicstore\protected\views\store\index.php:97)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(869): StoreController->renderFile()
+#1 F:\xampp\htdocs\YiiMain\framework\web\CController.php(782): StoreController->renderPartial()
+#2 F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php(66): StoreController->render()
+#3 F:\xampp\htdocs\YiiMain\framework\web\actions\CInlineAction.php(49): StoreController->actionArtistDetails()
+#4 F:\xampp\htdocs\YiiMain\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): StoreController->runAction()
+#6 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): StoreController->runActionWithFilters()
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): StoreController->run()
+#8 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/store/ArtistDetails?artistid=8
+in F:\xampp\htdocs\appyiimusicstore\protected\views\store\index.php (97)
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php (66)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2014/01/04 04:38:41 [error] [exception.CException] exception 'CException' with message 'Property "Album.Name" is not defined.' in F:\xampp\htdocs\YiiMain\framework\base\CComponent.php:130
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\db\ar\CActiveRecord.php(145): CComponent->__get('Name')
+#1 F:\xampp\htdocs\appyiimusicstore\protected\views\store\index.php(81): CActiveRecord->__get('Name')
+#2 F:\xampp\htdocs\YiiMain\framework\web\CBaseController.php(126): require('F:\xampp\htdocs...')
+#3 F:\xampp\htdocs\YiiMain\framework\web\CBaseController.php(95): CBaseController->renderInternal('F:\xampp\htdocs...', Array, true)
+#4 F:\xampp\htdocs\YiiMain\framework\web\CController.php(869): CBaseController->renderFile('F:\xampp\htdocs...', Array, true)
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(782): CController->renderPartial('index', Array, true)
+#6 F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php(66): CController->render('index', Array)
+#7 F:\xampp\htdocs\YiiMain\framework\web\actions\CInlineAction.php(49): StoreController->actionArtistDetails()
+#8 F:\xampp\htdocs\YiiMain\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#9 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#10 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CController->run('ArtistDetails')
+#12 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController('store/ArtistDet...')
+#13 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#14 F:\xampp\htdocs\appyiimusicstore\index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/appyiimusicstore/index.php/store/ArtistDetails?artistid=8
+HTTP_REFERER=http://localhost:1234/appyiimusicstore/index.php/store/browse?gid=4
+---
+2014/01/04 04:41:55 [error] [exception.CException] exception 'CException' with message 'Property "Artist.Bio" is not defined.' in F:\xampp\htdocs\YiiMain\framework\base\CComponent.php:130
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\db\ar\CActiveRecord.php(145): CComponent->__get('Bio')
+#1 F:\xampp\htdocs\appyiimusicstore\protected\views\store\index.php(82): CActiveRecord->__get('Bio')
+#2 F:\xampp\htdocs\YiiMain\framework\web\CBaseController.php(126): require('F:\xampp\htdocs...')
+#3 F:\xampp\htdocs\YiiMain\framework\web\CBaseController.php(95): CBaseController->renderInternal('F:\xampp\htdocs...', Array, true)
+#4 F:\xampp\htdocs\YiiMain\framework\web\CController.php(869): CBaseController->renderFile('F:\xampp\htdocs...', Array, true)
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(782): CController->renderPartial('index', Array, true)
+#6 F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php(66): CController->render('index', Array)
+#7 F:\xampp\htdocs\YiiMain\framework\web\actions\CInlineAction.php(49): StoreController->actionArtistDetails()
+#8 F:\xampp\htdocs\YiiMain\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#9 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#10 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CController->run('ArtistDetails')
+#12 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController('store/ArtistDet...')
+#13 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#14 F:\xampp\htdocs\appyiimusicstore\index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/appyiimusicstore/index.php/store/ArtistDetails?artistid=8
+HTTP_REFERER=http://localhost:1234/appyiimusicstore/index.php/store/browse?gid=4
+---
+2014/01/04 06:16:32 [error] [php] Undefined index: artistid (F:\xampp\htdocs\appyiimusicstore\protected\views\store\index.php:8)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(869): StoreController->renderFile()
+#1 F:\xampp\htdocs\YiiMain\framework\web\CController.php(782): StoreController->renderPartial()
+#2 F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php(35): StoreController->render()
+#3 F:\xampp\htdocs\YiiMain\framework\web\actions\CInlineAction.php(49): StoreController->actionBrowse()
+#4 F:\xampp\htdocs\YiiMain\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): StoreController->runAction()
+#6 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): StoreController->runActionWithFilters()
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): StoreController->run()
+#8 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/store/browse?gid=6
+in F:\xampp\htdocs\appyiimusicstore\protected\views\store\index.php (8)
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php (35)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2014/01/04 06:16:41 [error] [php] Undefined index: artistid (F:\xampp\htdocs\appyiimusicstore\protected\views\store\index.php:8)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(869): StoreController->renderFile()
+#1 F:\xampp\htdocs\YiiMain\framework\web\CController.php(782): StoreController->renderPartial()
+#2 F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php(35): StoreController->render()
+#3 F:\xampp\htdocs\YiiMain\framework\web\actions\CInlineAction.php(49): StoreController->actionBrowse()
+#4 F:\xampp\htdocs\YiiMain\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(286): StoreController->runAction()
+#6 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): StoreController->runActionWithFilters()
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): StoreController->run()
+#8 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/store/browse?gid=4
+in F:\xampp\htdocs\appyiimusicstore\protected\views\store\index.php (8)
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\StoreController.php (35)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2014/01/04 06:46:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cart".' in F:\xampp\htdocs\YiiMain\framework\web\CController.php:483
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(270): CController->missingAction('cart')
+#1 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CController->run('cart')
+#2 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController('store/cart')
+#3 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\xampp\htdocs\appyiimusicstore\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/appyiimusicstore/index.php/store/cart?album=614
+HTTP_REFERER=http://localhost:1234/appyiimusicstore/index.php/store/details?album=614
+---
+2014/01/04 08:48:48 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in F:\xampp\htdocs\YiiMain\framework\web\auth\CAccessControlFilter.php:182
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\auth\CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#1 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 F:\xampp\htdocs\YiiMain\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 F:\xampp\htdocs\YiiMain\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(291): CFilterChain->run()
+#6 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CController->run('admin')
+#8 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController('cart/admin')
+#9 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 F:\xampp\htdocs\appyiimusicstore\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/appyiimusicstore/index.php/cart/admin
+HTTP_REFERER=http://localhost:1234/appyiimusicstore/index.php/site/login
+---
+2014/01/04 08:50:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cart".' in F:\xampp\htdocs\YiiMain\framework\web\CController.php:483
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(270): CController->missingAction('cart')
+#1 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CController->run('cart')
+#2 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController('store/cart')
+#3 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\xampp\htdocs\appyiimusicstore\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/appyiimusicstore/index.php/store/cart?album=613
+HTTP_REFERER=http://localhost:1234/appyiimusicstore/index.php/store/details?album=613
+---
+2014/01/04 09:13:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cart".' in F:\xampp\htdocs\YiiMain\framework\web\CController.php:483
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(270): CController->missingAction('cart')
+#1 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CController->run('cart')
+#2 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController('store/cart')
+#3 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\xampp\htdocs\appyiimusicstore\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/appyiimusicstore/index.php/store/cart?album=613
+HTTP_REFERER=http://localhost:1234/appyiimusicstore/index.php/store/details?album=613
+---
+2014/01/05 04:53:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cart".' in F:\xampp\htdocs\YiiMain\framework\web\CController.php:483
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(270): CController->missingAction('cart')
+#1 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CController->run('cart')
+#2 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController('store/cart')
+#3 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\xampp\htdocs\appyiimusicstore\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/appyiimusicstore/index.php/store/cart?album=613
+HTTP_REFERER=http://localhost:1234/appyiimusicstore/index.php/store/details?album=613
+---
+2014/01/05 04:55:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cart".' in F:\xampp\htdocs\YiiMain\framework\web\CController.php:483
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(270): CController->missingAction('cart')
+#1 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CController->run('cart')
+#2 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController('store/cart')
+#3 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\xampp\htdocs\appyiimusicstore\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/appyiimusicstore/index.php/store/cart?album=613
+HTTP_REFERER=http://localhost:1234/appyiimusicstore/index.php/store/details?album=613
+---
+2014/01/05 04:57:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cart".' in F:\xampp\htdocs\YiiMain\framework\web\CController.php:483
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(270): CController->missingAction('cart')
+#1 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CController->run('cart')
+#2 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController('store/cart')
+#3 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\xampp\htdocs\appyiimusicstore\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/appyiimusicstore/index.php/store/cart?album=613
+HTTP_REFERER=http://localhost:1234/appyiimusicstore/index.php/store/details?album=613
+---
+2014/01/06 20:46:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cart".' in F:\xampp\htdocs\YiiMain\framework\web\CController.php:483
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(270): CController->missingAction('cart')
+#1 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CController->run('cart')
+#2 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController('store/cart')
+#3 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\xampp\htdocs\appyiimusicstore\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/appyiimusicstore/index.php/store/cart?album=613
+HTTP_REFERER=http://localhost:1234/appyiimusicstore/index.php/store/details?album=613
+---
+2014/01/06 22:12:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cart".' in F:\xampp\htdocs\YiiMain\framework\web\CController.php:483
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(270): CController->missingAction('cart')
+#1 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CController->run('cart')
+#2 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController('store/cart')
+#3 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\xampp\htdocs\appyiimusicstore\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/appyiimusicstore/index.php/store/cart?album=613
+HTTP_REFERER=http://localhost:1234/appyiimusicstore/index.php/store/details?album=613
+---
+2014/01/06 22:12:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cart".' in F:\xampp\htdocs\YiiMain\framework\web\CController.php:483
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(270): CController->missingAction('cart')
+#1 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CController->run('cart')
+#2 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController('store/cart')
+#3 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\xampp\htdocs\appyiimusicstore\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/appyiimusicstore/index.php/store/cart?album=613
+HTTP_REFERER=http://localhost:1234/appyiimusicstore/index.php/store/details?album=613
+---
+2014/01/06 22:12:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cart".' in F:\xampp\htdocs\YiiMain\framework\web\CController.php:483
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(270): CController->missingAction('cart')
+#1 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CController->run('cart')
+#2 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController('store/cart')
+#3 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\xampp\htdocs\appyiimusicstore\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/appyiimusicstore/index.php/store/cart?album=613
+HTTP_REFERER=http://localhost:1234/appyiimusicstore/index.php/store/details?album=613
+---
+2014/01/06 22:33:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "cart".' in F:\xampp\htdocs\YiiMain\framework\web\CController.php:483
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(270): CController->missingAction('cart')
+#1 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CController->run('cart')
+#2 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController('store/cart')
+#3 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\xampp\htdocs\appyiimusicstore\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/appyiimusicstore/index.php/store/cart?album=613
+HTTP_REFERER=http://localhost:1234/appyiimusicstore/index.php/store/details?album=613
+---
+2014/01/06 22:34:42 [error] [php] Undefined index: cartid (F:\xampp\htdocs\appyiimusicstore\protected\controllers\CartController.php:67)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilterChain.php(133): CartController->runAction()
+#1 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 F:\xampp\htdocs\YiiMain\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#3 F:\xampp\htdocs\YiiMain\framework\web\filters\CInlineFilter.php(58): CartController->filterAccessControl()
+#4 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(291): CFilterChain->run()
+#6 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): CartController->runActionWithFilters()
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CartController->run()
+#8 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/cart/create?albid=613&aid=8
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\CartController.php (67)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2014/01/06 22:38:09 [error] [php] Undefined index: cartid (F:\xampp\htdocs\appyiimusicstore\protected\controllers\CartController.php:67)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilterChain.php(133): CartController->runAction()
+#1 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 F:\xampp\htdocs\YiiMain\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#3 F:\xampp\htdocs\YiiMain\framework\web\filters\CInlineFilter.php(58): CartController->filterAccessControl()
+#4 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(291): CFilterChain->run()
+#6 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): CartController->runActionWithFilters()
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CartController->run()
+#8 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/cart/create?albid=613&aid=8
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\CartController.php (67)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2014/01/06 22:50:41 [error] [php] Undefined index: cartid (F:\xampp\htdocs\appyiimusicstore\protected\controllers\CartController.php:67)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilterChain.php(133): CartController->runAction()
+#1 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 F:\xampp\htdocs\YiiMain\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#3 F:\xampp\htdocs\YiiMain\framework\web\filters\CInlineFilter.php(58): CartController->filterAccessControl()
+#4 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(291): CFilterChain->run()
+#6 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): CartController->runActionWithFilters()
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CartController->run()
+#8 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/cart/create?albid=613&aid=8
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\CartController.php (67)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2014/01/06 22:54:47 [error] [php] Undefined index: cartid (F:\xampp\htdocs\appyiimusicstore\protected\controllers\CartController.php:67)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilterChain.php(133): CartController->runAction()
+#1 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 F:\xampp\htdocs\YiiMain\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#3 F:\xampp\htdocs\YiiMain\framework\web\filters\CInlineFilter.php(58): CartController->filterAccessControl()
+#4 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(291): CFilterChain->run()
+#6 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): CartController->runActionWithFilters()
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CartController->run()
+#8 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/cart/create?albid=613&aid=8
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\CartController.php (67)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2014/01/07 05:11:43 [error] [php] Undefined index: cartid (F:\xampp\htdocs\appyiimusicstore\protected\controllers\CartController.php:67)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilterChain.php(133): CartController->runAction()
+#1 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 F:\xampp\htdocs\YiiMain\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#3 F:\xampp\htdocs\YiiMain\framework\web\filters\CInlineFilter.php(58): CartController->filterAccessControl()
+#4 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(291): CFilterChain->run()
+#6 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): CartController->runActionWithFilters()
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CartController->run()
+#8 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/cart/create?albid=613&aid=8
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\CartController.php (67)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2014/01/07 05:12:07 [error] [php] Undefined index: cartid (F:\xampp\htdocs\appyiimusicstore\protected\controllers\CartController.php:67)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilterChain.php(133): CartController->runAction()
+#1 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 F:\xampp\htdocs\YiiMain\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#3 F:\xampp\htdocs\YiiMain\framework\web\filters\CInlineFilter.php(58): CartController->filterAccessControl()
+#4 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(291): CFilterChain->run()
+#6 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): CartController->runActionWithFilters()
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CartController->run()
+#8 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/cart/create?albid=613&aid=8
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\CartController.php (67)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2014/01/07 05:46:41 [error] [php] A session had already been started - ignoring session_start() (F:\xampp\htdocs\appyiimusicstore\protected\controllers\CartController.php:66)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilterChain.php(133): CartController->runAction()
+#2 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#3 F:\xampp\htdocs\YiiMain\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#4 F:\xampp\htdocs\YiiMain\framework\web\filters\CInlineFilter.php(58): CartController->filterAccessControl()
+#5 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#6 F:\xampp\htdocs\YiiMain\framework\web\CController.php(291): CFilterChain->run()
+#7 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): CartController->runActionWithFilters()
+#8 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CartController->run()
+#9 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#10 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#11 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/cart/create?albid=613&aid=8
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\CartController.php (66)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2014/01/07 06:03:23 [error] [php] Undefined index: cartid (F:\xampp\htdocs\appyiimusicstore\protected\controllers\CartController.php:68)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilterChain.php(133): CartController->runAction()
+#1 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 F:\xampp\htdocs\YiiMain\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#3 F:\xampp\htdocs\YiiMain\framework\web\filters\CInlineFilter.php(58): CartController->filterAccessControl()
+#4 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(291): CFilterChain->run()
+#6 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): CartController->runActionWithFilters()
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CartController->run()
+#8 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/cart/create?albid=613&aid=8
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\CartController.php (68)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2014/01/07 06:06:14 [error] [php] Undefined index: cartid (F:\xampp\htdocs\appyiimusicstore\protected\controllers\CartController.php:68)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilterChain.php(133): CartController->runAction()
+#1 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 F:\xampp\htdocs\YiiMain\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#3 F:\xampp\htdocs\YiiMain\framework\web\filters\CInlineFilter.php(58): CartController->filterAccessControl()
+#4 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(291): CFilterChain->run()
+#6 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): CartController->runActionWithFilters()
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CartController->run()
+#8 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/cart/create?albid=613&aid=8
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\CartController.php (68)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2014/01/07 06:07:03 [error] [php] Undefined index: cartid (F:\xampp\htdocs\appyiimusicstore\protected\controllers\CartController.php:68)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilterChain.php(133): CartController->runAction()
+#1 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 F:\xampp\htdocs\YiiMain\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#3 F:\xampp\htdocs\YiiMain\framework\web\filters\CInlineFilter.php(58): CartController->filterAccessControl()
+#4 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(291): CFilterChain->run()
+#6 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): CartController->runActionWithFilters()
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CartController->run()
+#8 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/cart/create?albid=613&aid=8
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\CartController.php (68)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2014/01/07 06:13:13 [error] [php] Undefined index: cartid (F:\xampp\htdocs\appyiimusicstore\protected\controllers\CartController.php:68)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilterChain.php(133): CartController->runAction()
+#1 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 F:\xampp\htdocs\YiiMain\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#3 F:\xampp\htdocs\YiiMain\framework\web\filters\CInlineFilter.php(58): CartController->filterAccessControl()
+#4 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(291): CFilterChain->run()
+#6 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): CartController->runActionWithFilters()
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CartController->run()
+#8 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/cart/create?albid=613&aid=8
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\CartController.php (68)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2014/01/07 07:41:20 [error] [php] Undefined index: cartid (F:\xampp\htdocs\appyiimusicstore\protected\controllers\CartController.php:68)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilterChain.php(133): CartController->runAction()
+#1 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 F:\xampp\htdocs\YiiMain\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#3 F:\xampp\htdocs\YiiMain\framework\web\filters\CInlineFilter.php(58): CartController->filterAccessControl()
+#4 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(291): CFilterChain->run()
+#6 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): CartController->runActionWithFilters()
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CartController->run()
+#8 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/cart/create?albid=613&aid=8
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\CartController.php (68)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2014/01/07 19:56:12 [error] [php] Undefined index: cartid (F:\xampp\htdocs\appyiimusicstore\protected\controllers\CartController.php:68)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilterChain.php(133): CartController->runAction()
+#1 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 F:\xampp\htdocs\YiiMain\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#3 F:\xampp\htdocs\YiiMain\framework\web\filters\CInlineFilter.php(58): CartController->filterAccessControl()
+#4 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(291): CFilterChain->run()
+#6 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): CartController->runActionWithFilters()
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CartController->run()
+#8 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/cart/create?albid=613&aid=8
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\CartController.php (68)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
+2014/01/07 19:57:33 [error] [php] Undefined index: cartid (F:\xampp\htdocs\appyiimusicstore\protected\controllers\CartController.php:68)
+Stack trace:
+#0 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilterChain.php(133): CartController->runAction()
+#1 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#2 F:\xampp\htdocs\YiiMain\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#3 F:\xampp\htdocs\YiiMain\framework\web\filters\CInlineFilter.php(58): CartController->filterAccessControl()
+#4 F:\xampp\htdocs\YiiMain\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#5 F:\xampp\htdocs\YiiMain\framework\web\CController.php(291): CFilterChain->run()
+#6 F:\xampp\htdocs\YiiMain\framework\web\CController.php(265): CartController->runActionWithFilters()
+#7 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(282): CartController->run()
+#8 F:\xampp\htdocs\YiiMain\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 F:\xampp\htdocs\YiiMain\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 F:\xampp\htdocs\appyiimusicstore\index.php(13): CWebApplication->run()
+REQUEST_URI=/appyiimusicstore/index.php/cart/create?albid=613&aid=8
+in F:\xampp\htdocs\appyiimusicstore\protected\controllers\CartController.php (68)
+in F:\xampp\htdocs\appyiimusicstore\index.php (13)
